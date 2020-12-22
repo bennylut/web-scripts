@@ -2,7 +2,7 @@
 // @grant        GM.xmlHttpRequest
 // @grant        GM_xmlHttpRequest
 // @grant        unsafeWindow
-// @name         Twitter Downloader Debug
+// @name         Twitter Downloader Release
 // @namespace    http://tampermonkey.net/
 // @version      0.3
 // @description  The minions revenge 3
