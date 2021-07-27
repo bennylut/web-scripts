@@ -4,7 +4,7 @@
 // @grant        unsafeWindow
 // @name         Instagram tagging Release
 // @namespace    http://tampermonkey.net/
-// @version      0.1.4
+// @version      0.1.5
 // @description  The minions revenge 3
 // @author       Benny
 // @match        https://www.instagram.com/*
