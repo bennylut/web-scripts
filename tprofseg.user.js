@@ -4,7 +4,7 @@
 // @grant        unsafeWindow
 // @name         Twitter PS Release
 // @namespace    http://tampermonkey.net/
-// @version      0.7.16
+// @version      0.7.17
 // @description  The minions revenge 3
 // @author       Benny
 // @match        https://twitter.com/*
