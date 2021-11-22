@@ -2,11 +2,11 @@
 // @grant        GM.xmlHttpRequest
 // @grant        GM_xmlHttpRequest
 // @grant        unsafeWindow
-// @name         Twitter PS Release
+// @name         Twitter Tagging Plugin
 // @namespace    http://tampermonkey.net/
 // @version      1.0.0
 // @description  The minions revenge 3
-// @author       Benny
+// @author       Dana & Roy
 // @match        https://twitter.com/*
 // @connect      localhost
 // @connect      172.16.132.105
