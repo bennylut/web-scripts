@@ -4,7 +4,7 @@
 // @grant        unsafeWindow
 // @name         Twitter Tagging Plugin
 // @namespace    http://tampermonkey.net/
-// @version      2.1.13
+// @version      2.1.14
 // @description  The minions revenge 3
 // @author       Dana & Roy & Dror
 // @match        https://x.com/*
